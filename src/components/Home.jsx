@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 // import SignUp from 'SignUp';
 import LoginPage from './LoginPage';
 import SignUp from './SignUp';
+import ChatBot from './ChatBot';
 import fire from 'firebase';
 
 class Home extends Component {
 
   constructor(props){
     super(props);
+    // this.logOut = this.logOut.bind(this);
     this.state = {
       user:{},
     }
@@ -33,7 +35,7 @@ class Home extends Component {
   render() {
     return (
       <body>
-        {this.state.user ? (<SignUp/>) : (<LoginPage/>)}
+        {this.state.user ? (<ChatBot/>) : (<LoginPage/>)}
       </body>
     );
   }

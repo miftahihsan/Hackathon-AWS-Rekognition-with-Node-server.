@@ -4,11 +4,16 @@
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '4.9.0' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
   "dependencies": {
+    "aws-sdk": "^2.393.0",
+    "axios": "^0.18.0",
     "firebase": "^5.8.0",
     "mdbreact": "4.9.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "react-speech-recognition": "^1.0.7",
+    "react-webcam": "^1.1.0",
+    "react-youtube": "^7.9.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,0 +1,14 @@
+.webcam{
+    position: absolute;
+    margin-left: 200% ;
+    overflow-x: hidden;
+}
+
+#youtube-id{
+    display: none;
+}
+
+.lyrics{
+    width: 50%;
+
+}

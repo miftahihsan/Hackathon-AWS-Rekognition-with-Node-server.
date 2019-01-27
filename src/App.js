@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { MDBBtn, MDBCol, MDBContainer, MDBRow } from "mdbreact";
-import "./index.css";
 import logo from "./logo.png";
 
 import {
@@ -25,6 +24,8 @@ class App extends Component {
 
           <Route exact path="/" component={Home}/>
           <Route path="/Home" component={Home}/>
+          <Route path="/SignUp" component={SignUp}/>
+          <Route path="/LoginPage" component={LoginPage}/>
 
         </div>
       </BrowserRouter>

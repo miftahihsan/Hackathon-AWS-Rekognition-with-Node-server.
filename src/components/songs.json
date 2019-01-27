@@ -1,0 +1,74 @@
+{"HappySongs": [{
+        "Name": "Don't Worry Be Happy",
+        "URL": "https://www.youtube.com/watch?v=d-diB65scQU",
+        "artist": "Bobby McFerrin"
+
+    }, {
+      "Name" :
+      "Here Comes the sun",
+      "URL" : "https://www.youtube.com/watch?v=U_O1QKQCsGs",
+      "artist": "The Beatles"
+    }, {
+      "Name" :
+      "Perfect",
+      "URL" : "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+      "artist": "Ed Sheeran"
+    }, {
+      "Name" :
+      "Thinking Out Loud",
+      "URL" : "https://www.youtube.com/watch?v=lp-EO5I60KA",
+      "artist": "Ed Sheeren"
+    }, {
+      "Name" :
+      "Hey Jude",
+      "URL" : "https://www.youtube.com/watch?v=A_MjCqQoLLA",
+      "artist": "The Beatles"
+    }, {
+      "Name" :
+      "UpTown Funk",
+      "URL" : "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "artist": "Bruno Mars"
+    }]
+,
+
+    "SadSongs" : [
+      {
+      "Name": "Shei Tumi Keno Eto Ochena Hole",
+        "URL": "https://www.youtube.com/watch?v=9US5QeBtw6w",
+        "artist": "Ayub Bacchu"
+
+      } , {
+      "Name": "Naruto Sad and sorrow",
+        "URL": "https://www.youtube.com/watch?v=UTo7E0evQWw",
+        "artist": "Music Mike 512"
+
+      }, {
+      "Name": "Majhe Majhe",
+        "URL": "https://www.youtube.com/watch?v=uV10WkCvf3k",
+        "artist": "Arnob"
+
+      }, {
+      "Name": "Say Something",
+        "URL": "https://www.youtube.com/watch?v=BmErRm-vApI",
+        "artist": "ABC"
+
+      },{
+      "Name": "The A Team",
+        "URL": "https://www.youtube.com/watch?v=UAWcs5H-qgQ",
+        "artist": "Ed Sheeran"
+      }, {
+        "Name": "Naruto Sad Track",
+        "URL": "https://www.youtube.com/watch?v=YIpNFB2rFEY",
+        "artist": "Uchiha Clan"
+      } , {
+        "Name": "Hello",
+        "URL": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+        "artist": "Adele"
+      }, {
+        "Name": "Ma",
+        "URL": "https://www.youtube.com/watch?v=v2K9qDePmW4",
+        "artist": "James"
+      }  ]
+
+
+}
