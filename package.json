@@ -10,7 +10,7 @@
     "mdbreact": "4.9.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.0.5",
+    "react-scripts": "5.0.1",
     "react-speech-recognition": "^1.0.7",
     "react-webcam": "^1.1.0",
     "react-youtube": "^7.9.0"
